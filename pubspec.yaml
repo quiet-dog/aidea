@@ -66,11 +66,8 @@ dependencies:
   isolate_image_compress: ^2.0.0
   image: 4.1.7
   flutter_cache_manager: ^3.3.0
-  file_saver:
-    git:
-      url: https://github.com/incrediblezayed/file_saver
-      ref: f7259f1d97558251a5c3f81847904b63c08b482b
-  image_gallery_saver: ^1.7.1
+  file_saver: ^0.2.9
+  image_gallery_saver: ^2.0.3
   tiktoken: ^1.0.3
   flutter_colorpicker: ^1.0.3
   singleton: ^0.0.2
@@ -81,7 +78,7 @@ dependencies:
   dio_smart_retry: ^1.4.0
   qiniu_flutter_sdk: ^0.4.0
   sign_in_with_apple: ^4.3.0
-  record: ^5.0.4
+  record: ^5.1.1
   animations: ^2.0.7
   animated_text_kit: ^4.2.2
   flutter_localization: ^0.1.11
@@ -106,7 +103,6 @@ dependencies:
   flutter_local_notifications: ^14.1.1
   flutter_drawing_board: ^0.4.4+2
   loading_more_list: ^5.0.3
-  tobias: ^2.4.2
   flutter_sticky_header: ^0.6.5
   audioplayers: ^5.0.0
   flutter_tts: ^3.7.0
@@ -131,6 +127,9 @@ dependencies:
   stripe_js: ^3.4.0
   qr_flutter: ^4.1.0
   flutter_phoenix: ^1.1.1
+  flutter_plugin_android_lifecycle: ^2.0.19
+  wakelock_plus: ^1.2.5
+  tobias: ^2.4.2
   
 dev_dependencies:
   flutter_test:

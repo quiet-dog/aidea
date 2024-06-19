@@ -10,8 +10,8 @@ class IconAndColor {
 }
 
 final iconAndColors = [
-  IconAndColor(Icons.bolt, Colors.green),
-  IconAndColor(Icons.auto_awesome, const Color.fromARGB(255, 120, 73, 223)),
+  IconAndColor(Icons.bolt, const Color.fromARGB(255, 95, 88, 253)),
+  IconAndColor(Icons.auto_awesome, const Color.fromARGB(255, 160, 86, 252)),
   IconAndColor(Icons.extension, const Color.fromARGB(255, 255, 122, 13)),
 ];
 
